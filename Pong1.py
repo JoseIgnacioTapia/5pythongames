@@ -1,4 +1,4 @@
-# Clasico juego de antaño
+# ATARI GAME
 import turtle
 
 wn = turtle.Screen()
