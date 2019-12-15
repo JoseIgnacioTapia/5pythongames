@@ -1,2 +1,2 @@
-# 5pythongames
+# PythonGames
 Building games to learn Python 
